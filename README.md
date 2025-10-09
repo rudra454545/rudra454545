@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  
+ 
 </div>
 
 ---
@@ -44,10 +44,21 @@
 
 <details open>
   <summary>
-    <h2>🛠️ Tech Stacks</h2>
+    <h2>🛠️ Tech & Tools </h2>
   </summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,python,pytorch,tensorflow,vscode,github,vercel,netlify,mysql,java" style="width: 100%; max-width: 700px;" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   </p>
 </details>
 
@@ -97,10 +108,10 @@
   </summary>
   <div align="center">
     <a href="https://github.com/rudra454545">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra454545&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20&rank_icon=percentile" alt="GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra454545&layout=compact&theme=aura_dark&hide_border=true" alt="Top Languages"/>
     </a>
     <a href="https://github.com/rudra454545">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra454545&layout=compact&theme=aura_dark&hide_border=true&card_width=320" alt="Top Languages"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra454545&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20&rank_icon=percentile" alt="GitHub Stats"/>
     </a>
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra454545&theme=dracula&hide_border=true&hide_title=false" alt="Contribution Graph"/>
