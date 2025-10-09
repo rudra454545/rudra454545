@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-prasad-dutta&repo=rudra-prasad-dutta&title_color=00C7FF&icon_color=00C7FF&text_color=ffffff&bg_color=0d1117" alt="Header Banner" />
+  
+  <img src="https://img.shields.io/badge/Hello_Coder!-00C7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Coder Icon"/>
   
   <h1>
     Hey there, I'm <span style="color:#00C7FF;">Rudra Prasad Dutta</span> ✨
@@ -9,19 +10,17 @@
 
   <p>
     <a href="https://linkedin.com/in/rudra-prasad-dutta-6558412b7/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/rudraprashad._/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=3600" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="mailto:rudraprasad.dutta.04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
 
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=3px" alt="Discord Presence" />
-  </a>
+  
 </div>
 
 ---
@@ -45,28 +44,10 @@
 
 <details open>
   <summary>
-    <h2>🛠️ Tech & Tools I Love</h2>
+    <h2>🛠️ Tech Stacks</h2>
   </summary>
   <p align="center">
-    <h3>Frontend Development</h3>
-    <a href="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss" target="_blank">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss&perline=6" />
-    </a>
-    <br><br>
-    <h3>Backend Development</h3>
-    <a href="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git" target="_blank">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git&perline=6" />
-    </a>
-    <br><br>
-    <h3>Languages & AI/ML</h3>
-    <a href="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,figma" target="_blank">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=6" />
-    </a>
-    <br><br>
-    <h3>Tools & Platforms</h3>
-    <a href="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,aws" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel&perline=6" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,python,pytorch,tensorflow,vscode,github,vercel,netlify,mysql,java" style="width: 100%; max-width: 700px;" />
   </p>
 </details>
 
@@ -116,15 +97,15 @@
   </summary>
   <div align="center">
     <a href="https://github.com/rudra454545">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra454545&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20" alt="GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudra454545&show_icons=true&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&line_height=20&rank_icon=percentile" alt="GitHub Stats"/>
     </a>
     <a href="https://github.com/rudra454545">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra454545&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra454545&layout=compact&theme=aura_dark&hide_border=true&card_width=320" alt="Top Languages"/>
     </a>
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra454545&theme=react-dark&hide_border=true&hide_title=false" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudra454545&theme=dracula&hide_border=true&hide_title=false" alt="Contribution Graph"/>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra454545&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra454545&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </div>
 </details>
 
