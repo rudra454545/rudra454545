@@ -1,11 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8AI7q9E698gE/giphy.gif" width="100"/> <h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-prasad-dutta&repo=rudra-prasad-dutta&title_color=00C7FF&icon_color=00C7FF&text_color=ffffff&bg_color=0d1117" alt="Header Banner" />
+  
+  <h1>
     Hey there, I'm <span style="color:#00C7FF;">Rudra Prasad Dutta</span> ✨
   </h1>
   <h3>MERN Stack Dev | AI/ML Enthusiast | ECE Student</h3>
   <p>Crafting innovative solutions, one line of code at a time. Based in Rourkela, Odisha. 🇮🇳</p>
 
-  <p align="center">
+  <p>
     <a href="https://linkedin.com/in/rudra-prasad-dutta-6558412b7/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn"/>
     </a>
@@ -16,6 +18,10 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" alt="Gmail"/>
     </a>
   </p>
+
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=3px" alt="Discord Presence" />
+  </a>
 </div>
 
 ---
@@ -124,31 +130,7 @@
 
 ---
 
-<details open>
-  <summary>
-    <h2>🌐 Let's Connect</h2>
-  </summary>
-  <div align="center">
-    <p>
-      I'm always eager to collaborate on exciting projects, share insights, or simply have a chat about the latest in tech. Don't hesitate to reach out!
-    </p>
-    <p>
-      <a href="https://linkedin.com/in/rudra-prasad-dutta-6558412b7/" target="_blank">
-        <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn"/>
-      </a>
-      <a href="mailto:rudraprasad.dutta.04@gmail.com">
-        <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=3600" alt="Gmail"/>
-      </a>
-      <a href="https://www.instagram.com/rudraprashad._/" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&cacheSeconds=3600" alt="Instagram"/>
-      </a>
-    </p>
-  </div>
-</details>
-
----
-
 <div align="center">
   <h3>✨ Profile Views ✨</h3>
-  <img src="https://komarev.com/ghpvc/?username=rudra454545&color=006400&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rudra454545&color=00C7FF&style=for-the-badge" alt="Profile views" />
 </div>
