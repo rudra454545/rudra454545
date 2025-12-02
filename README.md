@@ -78,13 +78,8 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>🍽️ <strong>ServeNow</strong></td>
-        <td>A comprehensive MERN-stack Restaurant Management System.</td>
-        <td><code>MongoDB</code>, <code>Express.js</code>, <code>React</code>, <code>Node.js</code></td>
-        <td><a href="https://github.com/rudra454545/ServeNow" target="_blank">GitHub</a></td>
-      </tr>
-      <tr>
+      
+  <tr>
         <td>👁️ <strong>Trinetra</strong></td>
         <td>An advanced AI-powered surveillance system for enhanced security.</td>
         <td><code>Python</code>, <code>OpenCV</code>, <code>Machine Learning</code></td>
